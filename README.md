@@ -1,3 +1,6 @@
+
+![_bf92026f-49d0-4406-b018-157b7dcebab7](https://github.com/user-attachments/assets/a677588a-84b7-40fd-8d16-927264f23eac)
+
 # NodeMCU 3.0.0
 > Lua-based firmware for ESP8266 WiFi SOC
 
